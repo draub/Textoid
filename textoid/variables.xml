@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <item>
+    <variable>[!111]</variable>
+    <sample>fox</sample>
+    <group>Animals</group>
+  </item>
+  <item>
+    <variable>[!222]</variable>
+    <sample>dog</sample>
+    <group>Animals</group>
+  </item>
+  <item>
+    <variable>[!AAA]</variable>
+    <sample>quick</sample>
+    <group>Traits</group>
+  </item>
+  <item>
+    <variable>[!BBB]</variable>
+    <sample>brown</sample>
+    <group>Traits</group>
+  </item>
+  <item>
+    <variable>[!CCC]</variable>
+    <sample>lazy</sample>
+    <group>Traits</group>
+  </item>
+</root>
+
+
+
+
